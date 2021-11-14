@@ -2,10 +2,7 @@
 
 基于CH549的多功能小键盘
 
-<img src="./IMG/1.jpg" height="200" width="200" align="left"/>
-
-
----
+<img src="./IMG/1.jpg" height="200" width="200"/>
 
 
 ## 功能
@@ -34,3 +31,8 @@
 - Keil C51 µVision V5
 - 立创EDA
 - Fusion 360
+
+## 提示
+
+⚠ 焊接操作时请注意安全，上电前检查电路是否短路。本人不会对您错误操作造成的任何损失负责
+
