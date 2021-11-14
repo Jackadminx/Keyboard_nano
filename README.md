@@ -2,7 +2,7 @@
 
 基于CH549的多功能小键盘
 
-<img src="./IMG/1.jpg" height="200" width="200"/>
+<img src="./IMG/1.jpg" height="300" width="300"/>
 
 
 ## 功能
