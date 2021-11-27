@@ -22,7 +22,7 @@
 - [x] 模拟鼠标
 - [x] 模拟触摸滑动、点击
 - [x] 模拟 Surface Dial 轮盘
-- [x] 上位机控制
+- [x] [上位机控制](https://github.com/Jackadminx/Keyboard_nano_client)
 - [x] WS2812 RGB 功能
 - [x] 片内 EEPROM 数据保存
 
@@ -36,3 +36,4 @@
 
 ⚠ 焊接操作时请注意安全，上电前检查电路是否短路。本人不会对您错误操作造成的任何损失负责
 
+<img src="./IMG/3.jpg" height="300"/>
