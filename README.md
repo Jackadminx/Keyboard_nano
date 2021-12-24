@@ -32,6 +32,10 @@
 - 立创EDA
 - Fusion 360
 
+## 杂项
+
+[WS2812B library](https://github.com/Arctos6135/BeautifulRobot) 
+
 ## 提示
 
 ⚠ 焊接操作时请注意安全，上电前检查电路是否短路。本人不会对您错误操作造成的任何损失负责
